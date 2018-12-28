@@ -1,1 +1,1 @@
-webshotcmd.exe /url "http://www.microsoft.com/" /width 800 /height 600
+C:\webshot\webshotcmd.exe /url "http://services.mflixit.com:8989/calendar/" /width 800 /height 600
