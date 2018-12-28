@@ -1,4 +1,1 @@
-webshotcmd.exe /url "http://www.google.com/" /postdata "Username=TestUser&Password=TestPass&Submit=OK"  /width 800 /height 600
-
-
-http://www.websitescreenshots.com/#/documentation#clusage
+webshotcmd.exe /url "http://www.microsoft.com/" /width 800 /height 600
