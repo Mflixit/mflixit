@@ -6,7 +6,7 @@ unknown 205 - Jellyfin (water supermicro dual 5645)
 Neptune 206 - Jellyfin (water supermicro dual 5645)
 Reverse Proxy 207? - Ubuntu, nginx?
 
-Tplink Router .0.1
+Tplink Router .0.1:8001
 Comcast Router .0.66
 Cisco Router .0.236
 D-Link Router .0.?
