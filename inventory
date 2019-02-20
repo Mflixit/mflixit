@@ -1,0 +1,12 @@
+Mars 201 - Sonarr Radarr Jackett (air cooled dual 5650)
+Jupitor 202 - Fileserver (water dual 5650)
+Earth 203 - Emby Premime (air  e5-2670)
+"e5-1650" 204 - Plex, Jellyfin, AnimeSonarr (air  er-1650)
+unknown 205 - Jellyfin (water supermicro dual 5645)
+Neptune 206 - Jellyfin (water supermicro dual 5645)
+Reverse Proxy 207? - Ubuntu, nginx?
+
+Tplink Router .0.1
+Comcast Router .0.66
+Cisco Router .0.236
+D-Link Router .0.?
