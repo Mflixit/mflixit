@@ -1,10 +1,10 @@
 Mars 201 - Sonarr Radarr Jackett (air cooled dual 5650)
 Jupitor 202 - Fileserver (water dual 5650)
 Earth 203 - Emby Premime (air  e5-2670)
-Venus-1650 204 - Plex, Jellyfin, AnimeSonarr (air  er-1650) 120gb
-mercury 205 - Jellyfin (water supermicro dual 5645) 0a .105 60gb 32gb
+Venus-1650 204 - Plex, Jellyfin, AnimeSonarr (air  er-1650)  120gb
+mercury 205 - sabnbzd (water supermicro dual 5645) 0a .105 60gb 32gb
 Neptune 206 - Jellyfin (water supermicro dual 5645) ab .111 60gb 24gb
-Reverse Proxy 207? - Ubuntu, nginx?
+Reverse Proxy 207? - Ubuntu, haproxy .116
 
 Tplink Router .0.1:8001
 Comcast Router .0.66
